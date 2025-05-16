@@ -4,5 +4,6 @@ Business Intelligence Application, made with SQL Server and PowerBI, containing 
 
 ![alt text](https://github.com/roxanatdg/PowerBI-App/blob/main/Pics/powerbi-app-pic.png)
 
+![alt text](https://github.com/roxanatdg/PowerBI-App/blob/main/Pics/data-schema.png)
 
 

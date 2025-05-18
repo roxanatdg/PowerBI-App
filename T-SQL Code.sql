@@ -58,8 +58,7 @@ CREATE TABLE Socials_results (
     Followers INT
 );
 
--- Drop and recreate Socials_FLW table
-DROP TABLE IF EXISTS Socials_FLW;
+
 
 CREATE TABLE Socials_FLW (
     ID_REC INT PRIMARY KEY,

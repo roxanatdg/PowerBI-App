@@ -10,8 +10,9 @@ To gain a more comprehensive understanding of the company analyzed in this paper
 ![alt text](https://github.com/roxanatdg/PowerBI-App/blob/main/Pics/data-schema.png)
 
 
-Valmont recorded $12.36 million in sales for 2022, highlighting a successful financial year for its irrigation division, while pivot Systems generated 67.98% of total sales, confirming their role as Valmont’s flagship offering, showing that this category significantly outperforms others.
-While Pivot Systems dominate, other categories like Irrigation Parts (16.47%), Tubing (10.11%), and Solar Ag (5.45%) show potential for future expansion. Their presence reflects a diverse but concentrated portfolio, suggesting room for growth in secondary product lines.
+Valmont recorded $12.36 million in sales for 2022, highlighting a successful financial year for its irrigation division. This figure reflects continued growth momentum and product demand across multiple regions.
+Pivot Systems generated 67.98% of total sales, confirming their role as Valmont’s flagship offering. This category significantly outperforms others, indicating a market preference for scalable and efficient irrigation solutions. While Pivot Systems dominate, other categories like Irrigation Parts (16.47%), Tubing (10.11%), and Solar Ag (5.45%) show potential for future expansion. Their presence reflects a diverse but concentrated portfolio, suggesting room for growth in secondary product lines.
+Sales span North America, Europe, South America, Africa, and parts of Asia and Australia, as shown on the interactive map. This demonstrates Valmont’s global operational footprint and emphasizes its ability to serve various agricultural markets worldwide.
 
 
 Taking a closer look to the social media it can be noticed the fact that the company has a significant year-over-year growth in LinkedIn followers, with LinkedIn far outperforming Facebook as Valmont’s primary B2B engagement channel. 
